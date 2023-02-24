@@ -1,0 +1,12 @@
+*{
+    margin: 0; padding: 0;
+}
+
+html{
+    background-color: black;
+}
+
+body{
+    width: 750px; height: 750px;
+    margin: auto; background-color: rgb(255, 228, 196);
+}
